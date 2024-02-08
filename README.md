@@ -59,5 +59,7 @@ Distributed under the MIT License.
 Contact
 
 Anna Booker 
-https://github.com/annabook21/LogParser/
+https://www.linkedin.com/in/annadbooker
+
+project - https://github.com/annabook21/LogParser/
  
