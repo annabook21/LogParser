@@ -1,20 +1,20 @@
 # LogParser
 This Python script analyzes VPC flow logs to extract and list all IP addresses from entries marked as “REJECT”. It also saves each line of rejected traffic into a separate txt file for further analysis.
 
-#Features
+Features
 
 	•	Extracts all source and destination IP addresses from rejected traffic entries in a VPC flow log.
 	•	Outputs a list of unique rejected IP addresses to the console.
 	•	Saves detailed entries of rejected traffic to a .txt file for record-keeping and further examination.
 
-#Prerequisites
+Prerequisites
 
 Before you run this script, you need:
 
 	•	Python 3.x installed on your system.
 	•	Access to VPC flow log files in .log format that you wish to analyze.
 
-#Setup
+Setup
 
 	1.	Clone or download this repository to your local machine.
 	2.	Ensure your VPC flow log file is accessible on your system. Place the log file in the same directory as the script for simplicity, or be ready to specify the full path to the file when running the script.
